@@ -3,15 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan101099" alt="karan101099" /> </p>
 
-- 🔭 I’m currently working on [WhatsApp Clone](https://github.com/karan101099/WhatsApp-Clone)
-
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **karan101099@gmail.com**
-<br>
-<p align="left">Things I code with :</p>
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></p>
-<br/>
 <br/>  
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=karan101099&show_icons=true" alt="karan101099" /></p>
